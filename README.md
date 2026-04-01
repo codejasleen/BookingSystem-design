@@ -9,6 +9,8 @@ Core Design
 -A Show represents a movie running on a screen at a specific time
 -ShowSeat is used to track seat availability for a particular show
 
+**Overview **
+
 Key Design Decisions
 1. ShowSeat Abstraction
 
